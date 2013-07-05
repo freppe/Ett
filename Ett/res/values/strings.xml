@@ -1,0 +1,28 @@
+<resources>
+
+    <string name="app_name">TB</string>
+
+    <string-array name="kapitel">
+        <item>Förord</item>
+        <item>Kapitel 1</item>
+        <item>Kapitel 2</item> 
+        <item>Kapitel 3</item>
+        <item>Kapitel 4</item>
+        <item>Kapitel 5</item>
+        <item>Om appen</item>
+    </string-array>
+    
+    <string-array name="pk1">
+	  <item>§1</item>
+	  <item>§2</item>
+    </string-array>
+    
+    <string-array name="pk2">
+	  <item>§1a</item>
+	  <item>§1b</item>
+	  <item>§2</item>
+	  <item>§3</item>
+	  	  
+    </string-array>
+    
+</resources>
